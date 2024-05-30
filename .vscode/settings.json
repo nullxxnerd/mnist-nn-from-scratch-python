@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "operations.h": "c",
+    "unistd.h": "c",
+    "stat.h": "c",
+    "nn.h": "c",
+    "stdlib.h": "c",
+    "stdio.h": "c",
+    "string.h": "c"
+  }
+}
