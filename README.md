@@ -14,7 +14,7 @@ you can download the dataset from kaggle.
 ## Network Architecture
 The neural network implemented in this project consists of the following:
 - Input Layer: 784 neurons (28x28 pixels flattened)
-- Hidden Layer: 128 neurons with ReLU activation
+- Hidden Layer: 300 neurons with sigmoid activation
 - Output Layer: 10 neurons with softmax activation
 
 ## Installation
